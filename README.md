@@ -1,4 +1,4 @@
-<h1 align="center">💰 SIKOPET UAS – Iuran & Tabungan RT/RW Digital</h1>
+<h1 align="center">💰 SIKOPET – Iuran & Tabungan RT/RW Digital</h1>
 
 <p align="center">
   <em>Sistem Informasi Keuangan & Pengelolaan Tabungan Warga Berbasis Java</em><br>
